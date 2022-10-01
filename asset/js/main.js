@@ -142,5 +142,6 @@ $('.hero-section-responsive').slick({
 });
 
 
+console.log("Hello ALl Progammers!!!")
 
 
